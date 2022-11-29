@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Good1coding
+- 👋 Hi, I’m @JH
 - 👀 I’m interested in C and Java
 - 🌱 I’m currently learning C and Java
 - 💞️ I want to try coding with people.
